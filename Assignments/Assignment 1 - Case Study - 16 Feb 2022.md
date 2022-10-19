@@ -63,16 +63,11 @@ You can download the Android app from Play Store [<span style="text-decoration: 
 
 To know more, *visit* [<span style="text-decoration: underline">*underlined text*</span>](https://www.getfreebird.app/)
 
-![](https://play-lh.googleusercontent.com/ffVN1zWGvbBaHib_TMgX0iopdItpy5wraWrpcUy6RQ2zMwGEAfBRqRcbDQHjHydyIfcm=w3104-h2032-rw#thumbnail)
+<img src="https://play-lh.googleusercontent.com/ffVN1zWGvbBaHib_TMgX0iopdItpy5wraWrpcUy6RQ2zMwGEAfBRqRcbDQHjHydyIfcm=w3104-h2032" width="250">
 
 ---
 
-<style>
-img[src*="#thumbnail"] {
-   width:250px;
-   
-}
-<style>
+
 
 
 
